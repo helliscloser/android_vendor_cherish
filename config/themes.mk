@@ -68,6 +68,5 @@ PRODUCT_PACKAGES += \
 
 # QS Panel
 PRODUCT_PACKAGES += \
-    QSRoundedRectangle \
     QSOutline \
     QSTwoToneAccent
